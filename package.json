@@ -1,0 +1,22 @@
+{
+  "name": "saaf",
+  "version": "1.0.0",
+  "description": "MERN Shopping Cart App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirHamzaSabuz/MERN-1_KS-Friends-Chemical-Saaf.git"
+  },
+  "author": "Amir Hamza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmirHamzaSabuz/MERN-1_KS-Friends-Chemical-Saaf/issues"
+  },
+  "homepage": "https://github.com/AmirHamzaSabuz/MERN-1_KS-Friends-Chemical-Saaf#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
