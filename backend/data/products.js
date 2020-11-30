@@ -15,7 +15,7 @@ const products = [
     {
       _id: '2',
       name: 'Surf exel MATIC Liquid Detergent',
-      image: '/images/LiquidDetergent_Surf Excel_.jpg',
+      image: '/images/Liquid_Detergent_Surf_Excel_.jpg',
       description:
         'Presenting Surf Excel matic front load liquid detergent - a revolutionary liquid detergent for front load washing machines. Being liquid, it is best suited for washing machines and ensures a superior laundry experience. Surf Excel matic front load liquid detergent is specially made for your front load washing machine and gives you tough stain removal in machines.',
       brand: 'Surf exel',
@@ -28,7 +28,7 @@ const products = [
     {
       _id: '3',
       name: 'Gain Liquid Detergent',
-      image: '/images/Liquid Detergent_Gain_.jpg',
+      image: '/images/Liquid_Detergent_Gain_.jpg',
       description:
         "Gain's first entry into the \"natural\" laundry detergent category the irresistible scent of Gain Botanicals Orange Blossom Vanilla is made from 65% plant-based ingredients! Gentle on skin.",
       brand: 'Gain',
