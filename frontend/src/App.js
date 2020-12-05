@@ -1,10 +1,10 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import HomeScreen from './Screens/HomeScreen';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import HomeScreen from './screens/HomeScreen';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
-import ProductScreen from './Screens/ProductScreen';
+import ProductScreen from './screens/ProductScreen';
 
 const App = () => {
   return (
