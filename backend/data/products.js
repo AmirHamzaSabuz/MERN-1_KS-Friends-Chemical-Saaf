@@ -1,7 +1,7 @@
 const products = 
 [
     {
-      _id: '1',
+      
       name: 'Tide Liquid Detergent',
       image: '/images/LiquidDetergent_Tide_.jpg',
       description:
@@ -14,7 +14,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '2',
+      
       name: 'Surf exel MATIC Liquid Detergent',
       image: '/images/Liquid_Detergent_Surf_Excel_.jpg',
       description:
@@ -27,7 +27,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '3',
+     
       name: 'Gain Liquid Detergent',
       image: '/images/Liquid_Detergent_Gain_.jpg',
       description:
@@ -40,7 +40,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '4',
+      
       name: 'Dove Body Wash',
       image: '/images/BodyWash_Dove_.jpg',
       description:
@@ -53,7 +53,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '5',
+     
       name: 'Babyganics Hand Sanitizer',
       image: '/images/HandSanitizer_Babyganics_.jpg',
       description:
@@ -66,7 +66,7 @@ const products =
       numReviews: 10,
     },
     {
-      _id: '6',
+     
       name: 'Vim Liquid Dishwash',
       image: '/images/LiquidDishwasher_Vim_.jpg',
       description:
@@ -79,7 +79,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '7',
+      
       name: 'Lizol Surface Disinfectant',
       image: '/images/SufaceDisInfectant_Lizol_.jpg',
       description:
@@ -92,7 +92,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '8',
+      
       name: 'HealthPortion Fruit And Vegetable Cleaner',
       image: '/images/FruitAndVegetableCleaner_HealthPortion_.jpg',
       description:
@@ -105,7 +105,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '9',
+      
       name: 'Dunlop DamProof',
       image: '/images/DamProof_Dunlop_.jpg',
       description:
@@ -118,7 +118,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '10',
+      
       name: ' Harpic ToiletCleaner',
       image: '/images/ToiletCleaner_Harpic_.jpg',
       description:
@@ -131,7 +131,7 @@ const products =
       numReviews: 12,
     },
     {
-      _id: '11',
+      
       name: 'Norco UltrasoundGel',
       image: '/images/UltrasoundGel_Norco_.jpg',
       description:
@@ -143,7 +143,20 @@ const products =
       rating: 4,
       numReviews: 12,
     },
-
+	{
+      
+      name: 'Saaf Lequid Detergent',
+      image: '/images/Liquid_Detergent_Saaf_.jpg',
+      description:
+        'Best Liquid Detergent',
+      brand: 'Saaf',
+      category: 'Cleaning Items',
+      price: 65.00,
+      countInStock: 0,
+      rating: 4,
+      numReviews: 12,
+    }
+	
 ]
   
 export default products
